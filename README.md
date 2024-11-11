@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrWxlfz
+- 👋 Hi, I’m MrWxlfz, (formaly DrWxlfz, call me Luke anytime)
 - 👀 I’m have been a programmer for around 4 years, and I am a Software Engineer and Roblox dev.
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to build a new Roblox game.
