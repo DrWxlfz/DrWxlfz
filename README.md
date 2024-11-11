@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @DrWxlfz
+- 👀 I’m have been a programmer for around 4 years, and I am a Software Engineer and Roblox dev.
+- 🌱 I’m currently learning JavaScript!
+- 💞️ I’m looking to build a new Roblox game.
+- 📫 You can reach me by my socials, find them at https://guns.lol/mrwxlfz
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Did you know a cloud weighs 1 million tons?
